@@ -14,7 +14,7 @@
  
  ## 📋 Pré-requisito
 
-*-* Download de alguma versão do Python para execução do projeto
+* Download de alguma versão do Python para execução do projeto
 * Configurar comandos do VScode para rodar testes:
   * Python: Configure Tests
   * unittest
@@ -57,6 +57,9 @@ Observação: Essa execução poderá ser feita utilizando o terminal ou alguma 
     ├── tests                   # Arquivos de teste
     │   └── test_lances         # Unittest
     └── ...
+
+
+---
 
 
 ## 👨‍💻 Contribuidores
