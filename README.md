@@ -1,7 +1,7 @@
-# C214 - Unnittest
+# C214 - Unittest
 
 <h4 align="center"> 
-	 C214 - Unnittest 🚀 Concluído ✅
+	 C214 - Unittest 🚀 Concluído ✅
 </h4>
 
 
@@ -14,7 +14,12 @@
  
  ## 📋 Pré-requisito
 
-- Download de alguma versão do Python para execução do projeto
+*-* Download de alguma versão do Python para execução do projeto
+* Configurar comandos do VScode para rodar testes:
+  * Python: Configure Tests
+  * unittest
+  * tests (directory)
+  * test_*.py (file pattern)
 
 Observação: Essa execução poderá ser feita utilizando o terminal ou alguma IDE.
 
@@ -25,6 +30,33 @@ Observação: Essa execução poderá ser feita utilizando o terminal ou alguma 
 * [Unittest](https://docs.python.org/3/library/unittest.html)
 
 ---
+
+
+ ## 📂 Estrutura top-level do projeto
+
+    .
+    ├── src                     # Código fonte do projeto
+    ├── tests                   # Arquivos de teste
+    └── README.md
+
+
+ ## 💰 Código fonte
+
+    .
+    ├── ...
+    ├── src                     # Código fonte do projeto
+    │   └── dominio.py          # Defições das classes
+    │   └── main.py             # Demonstração de funcionamento das classes
+    └── ...
+
+
+ ## 📝 Testes
+
+    .
+    ├── ...
+    ├── tests                   # Arquivos de teste
+    │   └── test_lances         # Unittest
+    └── ...
 
 
 ## 👨‍💻 Contribuidores
